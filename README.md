@@ -21,4 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 ![BarshaRani_Sahoo_Badge_Contributor_GSSoC2024-Extd](https://github.com/user-attachments/assets/2d84986b-491a-4a2b-971f-5f917f4ae36b)
 
-
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+</div>

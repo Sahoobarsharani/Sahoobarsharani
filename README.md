@@ -1,3 +1,4 @@
+
 Currently persuading my B.Tech in CSE Branch at ITER, SOA University🏫🎓 !
 
 
@@ -18,6 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Postman Badge
 
+![Postman - Postman API Fundamentals Student Expert - 2024-10-23](https://github.com/user-attachments/assets/40ce7a7d-ed20-4503-9d8f-a551d804d379)
 
 ## GSSOC 24 CONTRIBUTOR Badge
 

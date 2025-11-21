@@ -1,12 +1,12 @@
 
-Barsha Rani Sahoo
-CSE Student | Developer | Open-Source Contributor | Tech Enthusiast
+## Barsha Rani Sahoo
+## CSE Student | Developer | Open-Source Contributor | Tech Enthusiast
 
 🌟 Currently pursuing B.Tech in Computer Science & Engineering at ITER, SOA University
 🚀 Passionate about Web Development, DSA, AI/ML, and Open-Source
 💡 Always eager to build, learn, break, fix & grow!
 
-👋 About Me
+## 👋 About Me
 
 💻 I love coding & building real-world projects
 

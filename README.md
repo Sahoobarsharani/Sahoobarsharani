@@ -1,11 +1,22 @@
 
-Currently persuading my B.Tech in CSE Branch at ITER, SOA University🏫🎓 !
+Barsha Rani Sahoo
+CSE Student | Developer | Open-Source Contributor | Tech Enthusiast
 
+🌟 Currently pursuing B.Tech in Computer Science & Engineering at ITER, SOA University
+🚀 Passionate about Web Development, DSA, AI/ML, and Open-Source
+💡 Always eager to build, learn, break, fix & grow!
 
-- 👋 Hi, I’m Barsha rani Sahoo
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Devlopment and DSA....
+👋 About Me
 
+💻 I love coding & building real-world projects
+
+🌱 Currently learning Development + DSA + System Design basics
+
+🤝 Active open-source contributor (Hacktoberfest, GSSoC)
+
+🎙 Student RJ at SOA Radio 90.4
+
+🔧 Event host | Project builder | Tech communicator
 
 <!---
 Sahoobarsharani/Sahoobarsharani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
